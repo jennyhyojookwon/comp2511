@@ -10,33 +10,11 @@
 
 * Learn the application of design patterns.
 
-## Due Dates
-
-Milestone 1: 5PM Sunday Week 5 (Feedback: Week 6 Lab)
-
-Milestone 2: 5PM Sunday Week 7 (Feedback: Week 8 Lab)
-
-Final milestone: 5PM Sunday Week 9 (Demonstration: Week 10 Lab)
-
-**NOTE:** There is **NO** provision for late submissions with a late penalty. Not submitting by the deadline is considered non-submission.
-
-## Value: 25 marks
-
----
 
 ## Overview
 
 You have received a request from a client for an application for the playing of dungeon-style puzzles. With a partner from your lab class, you will follow an agile development process to design and implement a desktop Java application that satisfies the requirements of the client (see below). The final piece of software you deliver is expected to be of professional quality, user-friendly, and demonstrate the knowledge and skills you have acquired in this course.
 
-## Partner
-
-Your first step in this project will be to find a partner. You will do this under the guidance of your tutor in the week 3 lab. You may work as an individual if you wish, but your project will be judged by the same criteria as if you had done it with a partner. If class sizes necessitate, groups of 3 will be allowed.
-
-After resolving who you will be working with, you should follow the instructions in the week 3 lab for registering your group. A repository on GitLab will be created for you at the end of week 3 based on the group you create, so you **must** create one by then.
-
-Once created, your repository will be available here (replace *GROUP_NAME* with your group's name):
-
-https://gitlab.cse.unsw.edu.au/COMP2511/19T3/GROUP_NAME
 
 ## Project setup
 
